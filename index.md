@@ -2,10 +2,9 @@
 
 layout: col-sidebar
 title: OWASP Chandigarh
-tags: example-tag
-level: 0
-
-region: Middle East
+tags: chandigarh
+level: 4
+region: Asia
 
 auto-migrated: 1
 
