@@ -6,7 +6,9 @@ tags: chandigarh
 level: 4
 region: Asia
 
-auto-migrated: 0
+auto-migrated: 1
+---
+<!-- rebuild -->
 
 ![OWASP Chandigarh Logo](/assets/images/final.jpeg)<br>
 Welcome to the Chandigarh chapter homepage. The chapter leaders are [Arjun Chaudhary](mailto:arjun.chaudhary@owasp.org) 
