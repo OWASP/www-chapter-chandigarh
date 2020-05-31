@@ -11,17 +11,17 @@ auto-migrated: 0
 ![OWASP Chandigarh Logo](/assets/images/final.jpeg)<br>
 Welcome to the Chandigarh chapter homepage. The chapter leaders are [Arjun Chaudhary](mailto:arjun.chaudhary@owasp.org) 
 
-<h2>Participate</h2>
+##Participate
 There are 2 ways to participate in the OWASP Chandigarh Chapter Events
 * Attending the Event
 * Speaking at the Event 
 * Look at the Participation Tab for further details.
 
-<h2>Upcoming Events</h2><br>
+##Upcoming Events<br>
 
 <b>For upcomming events follow us on our social handels.</b> 
 
-<h2>Become a Speaker</h2>
+##Become a Speaker<br>
 Would you like to speak on the upcoming OWASP Chandigarh Webinar? [Contact Us](mailto:arjun.chaudhary@owasp.org)
 
 **Email Format :**
@@ -38,12 +38,11 @@ Would you like to speak on the upcoming OWASP Chandigarh Webinar? [Contact Us](m
     - Abstract of the presentation
     - Presentation time required
 
-<h2>Sponsorship for Local Chapter </h2>
+##Sponsorship for Local Chapter
 For more information on how to support OWASP Chandigarh chapter in helping organize free and open security meets contact the chapter leaders.
 [Arjun Chaudhary](mailto:arjun.chaudhary@owasp.org)
 
 ## Local News
-- OWASP Noida's First Meetup and Webinar in Partnership with Lets Connect Coworking has been successfully completed.
 - Everyone is welcome to join us at our chapter meetings.
 - Stay tuned with the Chapter wiki & social media handles to get updates on upcomming webinars and meetings.
 <br>>
