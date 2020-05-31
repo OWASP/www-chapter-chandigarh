@@ -5,8 +5,6 @@ title: OWASP Chandigarh
 tags: Chandigarh OWASP Chapter India
 level: 4
 region: Asia
-
-auto-migrated: 1
 ---
 
 ![OWASP Chandigarh Logo](/assets/images/final.jpeg)<br>
