@@ -1,6 +1,7 @@
 <!--### Chapter Information
-* Chapter Region
+* Chapter Region-->
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+[Twitter](https://twitter.com/owaspchandigarh)
+[Facebook]()
+[Instagram](https://www.instagram.com/owaspchandigarh/)
