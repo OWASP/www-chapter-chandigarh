@@ -8,7 +8,7 @@ region: Asia
 ---
 
 ![OWASP Chandigarh Logo](/assets/images/final.jpeg)<br>
-Welcome to the Chandigarh chapter homepage.OWASP Chandigarh Chapter is free to join and open to all. We meet to discuss & demonstrate web and browser-based vulnerabilities, tools & solutions. The chapter leaders are [Arjun Chaudhary](mailto:arjun.chaudhary@owasp.org) 
+<b>Welcome to the Chandigarh chapter homepage.OWASP Chandigarh Chapter is free to join and open to all. We meet to discuss & demonstrate web and browser-based vulnerabilities, tools & solutions. The chapter leaders are [Arjun Chaudhary](mailto:arjun.chaudhary@owasp.org)</b>
 
 ## Participate
 There are 2 ways to participate in the OWASP Chandigarh Chapter Events
