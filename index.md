@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Chandigarh
-tags: Coimbatore OWASP Chapter India
+tags: Chandigarh OWASP Chapter India
 level: 4
 region: Asia
 
