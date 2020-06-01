@@ -36,6 +36,8 @@ Would you like to speak on the upcoming OWASP Chandigarh Webinar? [Contact Us](m
     - Name / Title of the Presentation
     - Abstract of the presentation
     - Presentation time required
+    
+[Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
 
 ## Sponsorship for Local Chapter
 For more information on how to support OWASP Chandigarh chapter in helping organize free and open security meets contact the chapter leaders.
