@@ -8,7 +8,7 @@ region: Asia
 ---
 
 ![OWASP Chandigarh Logo](/assets/images/final.jpeg)<br>
-<b>Welcome to the OWASP Chandigarh chapter homepage.OWASP Chandigarh Chapter is free to join and open to all. We meet to discuss & demonstrate web and browser-based vulnerabilities, tools & solutions.</b>
+<b>Welcome to the OWASP Chandigarh chapter homepage. OWASP Chandigarh Chapter is free to join and open to all. We meet to discuss & demonstrate web and browser-based vulnerabilities, tools & solutions.</b>
 
 ## Participate
 There are 2 ways to participate in the OWASP Chandigarh Chapter Events
