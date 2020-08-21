@@ -3,7 +3,6 @@
 layout: col-sidebar
 title: OWASP Chandigarh
 tags: Chandigarh OWASP Chapter India, OWASP Chandigarh, Owasp, Owasp, Chandigarh,Owasp chapter
-level: 4
 region: Asia
 ---
 
