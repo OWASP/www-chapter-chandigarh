@@ -7,3 +7,7 @@ tags: example-tag
 
 ## August 2020 Online Meetup  
 First Online Meetup
+The Speakers Were 
+Sankaraj 
+Chloe
+Multrani
