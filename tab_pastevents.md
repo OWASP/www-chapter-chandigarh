@@ -8,5 +8,5 @@ tags: Chandigarh OWASP Chapter India, OWASP Chandigarh, Owasp, Owasp, Chandigarh
 
 ---
 ## August 2020 Meetup
-<br>We successfully organized  our 1st Online Meetup on 2nd August 2020 And The Speakers for the evenet were Sankarraj, Chloe, Multani
+<br>The conference on 2nd August, 2020 covered a wide range of topics. More than 1500 mentees across the country became a part of OWASP Chandigarh family. There were queries, comments and simplification of concepts.<br>
 <img src="/assets/images/trio.jpg" alt="Girl in a jacket" style="width:auto;height:auto;">
