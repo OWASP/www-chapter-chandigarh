@@ -2,7 +2,7 @@
 * Chapter Region-->
 
 ### Social Links
-[Twitter](https://twitter.com/owaspchandigarh)<br>
+[Meetup](https://www.meetup.com/chandigarh-owasp-meetup-group/)
 [Facebook](https://m.facebook.com/owaspchandigarh/)<br>
 [Instagram](https://www.instagram.com/owaspchandigarh/)<br>
 [WhatsApp](https://chat.whatsapp.com/DGuxU4hO7UAKufwJSTZAst)<br>
