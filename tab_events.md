@@ -1,5 +1,5 @@
 ---
-title: Past Events
+title: Events
 tab: true
 order: 1
 tags: example-tag
