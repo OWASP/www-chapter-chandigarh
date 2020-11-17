@@ -6,6 +6,7 @@
 [Facebook](https://m.facebook.com/owaspchandigarh/)<br>
 [Instagram](https://www.instagram.com/owaspchandigarh/)<br>
 [WhatsApp](https://chat.whatsapp.com/DGuxU4hO7UAKufwJSTZAst)<br>
+Meetup Soon
 
 ### Usefull links 
 [Membership](https://owasp.org/membership/)<br>
