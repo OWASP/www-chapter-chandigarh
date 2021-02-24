@@ -13,3 +13,10 @@ tags: Chandigarh OWASP Chapter India, OWASP Chandigarh, Owasp, Owasp, Chandigarh
 <br>The conference on 2nd August, 2020 covered a wide range of topics. More than 1500 mentees across the country became a part of OWASP Chandigarh family. There were queries, comments and simplification of concepts.<br>
 <img src="assets/images/trio.jpg" width="100%" height=auto>
 
+## October 2020 Meetup
+**17 October 2020**<br>
+<a href="https://www.youtube.com/watch?v=Dvfnlvq_xdM">OCTOBER 2020 Meetup Youtube Live Stream</a><br>
+<br>The conference on 17th October, 2020 covered some intersting topics from Bug Bounty hunting to Infrustruction Security. <br>
+<img src="assets/images/Xss_rat.jpg" width="100%" height=auto>
+<img src="assets/images/Smit_shah.jpg" width="100%" height=auto>
+
