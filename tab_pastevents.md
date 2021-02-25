@@ -18,4 +18,4 @@ tags: Chandigarh OWASP Chapter India, OWASP Chandigarh, Owasp, Owasp, Chandigarh
 **17 October 2020**<br>
 <a href="https://www.youtube.com/watch?v=Dvfnlvq_xdM">OCTOBER 2020 Meetup Youtube Live Stream</a><br>
 <br>The conference on 17th October, 2020 covered some intersting topics from Bug Bounty hunting and Infrustruction Security. <br>
-<img scr="assets/images/octm.jpg" width="auto" height="auto"/>
+<img scr="assets/images/octm.jpg" width="500px" height="500px"/>
