@@ -3,7 +3,9 @@
 layout: col-sidebar
 title: OWASP Chandigarh
 tags: Chandigarh OWASP Chapter India, OWASP Chandigarh, Owasp, Owasp, Chandigarh,Owasp chapter
+meetup group: chandigarh-owasp-meetup-group
 region: Asia
+
 ---
 
 ![OWASP Chandigarh Logo](/assets/images/final.jpeg)<br>
@@ -16,6 +18,8 @@ There are 2 ways to participate in the OWASP Chandigarh Chapter Events
 * Look at the Participation Tab for further details.
 
 ## Upcoming Events<br>
+
+{% include chapter_events.html group=page.meetup-group %}
 
 <b>For upcomming events follow us on our social handels.</b> 
 
@@ -47,5 +51,5 @@ For more information on how to support OWASP Chandigarh chapter in helping organ
 - Stay tuned with the Chapter wiki & social media handles to get updates on upcomming webinars and meetings.
 <br>
 <h2>Code of Conduct</h2>
-We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to our chapter leaders if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies [here](https://www.owasp.org/index.php/Governance/Conference_Policies)
+We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to our chapter leaders if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies [here]
 
