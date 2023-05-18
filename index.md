@@ -43,7 +43,7 @@ Would you like to speak on the upcoming OWASP Chandigarh Webinar? [Contact Us](m
 [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
 
 ## Supporter for Local Chapter
-For more information on how to support OWASP Chandigarh chapter in helping organize free and open security meets contact the chapter leader.
+For more information on how to support OWASP Chandigarh chapter in helping organize free and open security meets contact the chapter leaders.
 [Nishant Khatri](mailto:nishant.khatri@owasp.org)
 [Yash Mishra](mailto:yash.mishra@owasp.org)
 
