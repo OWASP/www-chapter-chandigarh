@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Chandigarh
 tags: Chandigarh OWASP Chapter India, OWASP Chandigarh, Owasp, Owasp, Chandigarh,Owasp chapter
 meetup-group: chandigarh-owasp-meetup-group
+country: India
 region: Asia
 
 ---
