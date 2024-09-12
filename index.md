@@ -51,6 +51,7 @@ For more information on how to support OWASP Chandigarh chapter in helping organ
 ## Local News
 - Everyone is welcome to join us at our chapter meetings.
 - Stay tuned with the Chapter wiki & social media handles to get updates on upcomming webinars and meetings.
+- New Meetup Soon
 <br>
 <h2>Code of Conduct</h2>
 We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to our chapter leaders if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies [here]
