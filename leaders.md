@@ -1,4 +1,5 @@
 ### Leaders
 
-* [Yash Mishra](mailto:yash.mishra@owasp.org)
-* [Nishant Khatri](mailto:nishant.khatri@owasp.org)
+* [Saksham Sharma](mailto:saksham.sharma@owasp.org)
+* [Siddhant Tiwari](mailto:siddhant.tiwari@owasp.org)
+* [Atharva Barge](mailto:atharva.barge@owasp.org)
