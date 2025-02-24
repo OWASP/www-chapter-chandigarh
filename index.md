@@ -22,7 +22,8 @@ We host events both offline and online, providing opportunities for individuals 
 Everyone is encouraged to participate in our Projects, Local Chapters, Events, Online Groups, and Community Slack Channel. We especially value diversity in all our initiatives. OWASP is an excellent place to learn about application security, network with peers, and build your reputation as an expert in the field. We also invite you to become a member or consider making a donation to support our ongoing efforts.
 
 Join us in our mission to create a safer digital environment for all!
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+
+## Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
