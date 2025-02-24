@@ -1,6 +1,6 @@
 ---
 
-title: PastEvents
+title: past_events
 displaytext: Past Events
 tab: true
 order: 2
