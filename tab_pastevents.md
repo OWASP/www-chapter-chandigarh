@@ -3,7 +3,7 @@
 title: PastEvents
 displaytext: Past Events
 tab: true
-order: 1
+order: 2
 tags: Chandigarh OWASP Chapter India, OWASP Chandigarh, Owasp, Owasp, Chandigarh,Owasp chapter
 
 ---
