@@ -18,17 +18,19 @@ We are a dedicated group of individuals, committed to promoting and enhancing ap
 
 Our chapter organizes regular meetups, workshops, and events that bring together industry experts, researchers, and students to discuss the latest trends, challenges, and best practices in application security. We believe in fostering a supportive environment where individuals can learn from one another, share their experiences, and grow their skills.
 
-## 🏢 Interested in Hosting an Event?
+## Reach out to us
+
+### 🏢 Interested in Hosting an Event?
 
 - Do you have a venue where we can hold one of our community events?
 - Are you eager to engage with the cybersecurity community and make a contribution?
 
 We would love to hear from you! Please contact us using the links provided on the right.
 
-## 💰 Interested in Sponsoring Us?
+### 💰 Interested in Sponsoring Us?
 
 Your support can help cover the costs of our events or assist with travel and accommodation for non-local speakers. If you're interested in sponsoring, please reach out to us using the links on the right ➡️
 
-## 🎤 Want to Share Your Knowledge?
+### 🎤 Want to Share Your Knowledge?
 
 If you have an engaging topic and would like to share your expertise with our community, we encourage you to submit a session proposal here.
