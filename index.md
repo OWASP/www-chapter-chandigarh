@@ -3,7 +3,6 @@
 layout: col-sidebar
 title: OWASP Chandigarh
 tags: chandigarh, india
-level: 3
 region: Asia
 country: India
 meetup-group: OWASP-chandigarh
