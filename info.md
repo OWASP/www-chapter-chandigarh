@@ -1,13 +1,16 @@
 <!--### Chapter Information
-* Chapter Region-->
+* Chandigarh-->
+### General Information
+
+* [Become an OWASP Member](/membership)
+* [Chapter Policy](/www-policy/operational/chapters)
+* [Speaker Agreement](/www-policy/legal/speaker-agreement)
+* [Code of Conduct](/www-policy/operational/code-of-conduct)
 
 ### Social Links
-[Meetup](https://www.meetup.com/chandigarh-owasp-meetup-group/)<br>
-[Facebook](https://m.facebook.com/owaspchandigarh/)<br>
-[Instagram](https://www.instagram.com/owaspchandigarh/)<br>
-[WhatsApp](https://chat.whatsapp.com/DGuxU4hO7UAKufwJSTZAst)<br>
+
+* [Meetup](https://www.meetup.com/chandigarh-owasp-meetup-group/)<br>
 
 ### Usefull links 
-[Membership](https://owasp.org/membership/)<br>
-[Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct)<br>
-[Projects](https://owasp.org/projects/)<br>
+
+* [Projects](https://owasp.org/projects/)<br>
