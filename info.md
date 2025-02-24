@@ -3,8 +3,8 @@
 ### General Information
 
 * [Become an OWASP Member](/membership)
-* [Chapter Policy](/www-policy/operational/chapters)
 * [Join Our Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/chandigarh-chapter)
+* [Chapter Policy](/www-policy/operational/chapters)
 * [Speaker Agreement](/www-policy/legal/speaker-agreement)
 * [Code of Conduct](/www-policy/operational/code-of-conduct)
 
