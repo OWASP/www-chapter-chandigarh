@@ -23,7 +23,7 @@ Everyone is encouraged to participate in our Projects, Local Chapters, Events, O
 
 Join us in our mission to create a safer digital environment for all!
 
-## Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
