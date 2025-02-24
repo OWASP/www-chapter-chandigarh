@@ -28,4 +28,4 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 {% include chapter_events.html group=page.meetup-group %}
 
 ## Code of Conduct
-We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to our chapter leaders if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies [here](https://www.owasp.org/index.php/Governance/Conference_Policies) 
+We hope you enjoy our events, we care deeply about inclusivity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to our chapter leaders if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies [here](https://www.owasp.org/index.php/Governance/Conference_Policies) 
