@@ -1,11 +1,10 @@
 ---
-
 title: about
 displaytext: About
 tab: true
+layout: null
 order: 3
 tags: Chandigarh OWASP Chapter India, OWASP Chandigarh, Owasp, Owasp, Chandigarh,Owasp chapter
-
 ---
 
 ## About OWASP
