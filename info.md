@@ -15,4 +15,5 @@
 
 ### Usefull links 
 
-* [Projects](https://owasp.org/projects/)<br>
+* [Page Repo](https://owasp.org/projects/)<br>
+* [Slides](https://github.com/OWASP/www-chapter-chandigarh/tree/master/assets/slides)
