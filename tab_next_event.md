@@ -1,12 +1,10 @@
 ---
-
 title: NextEvent
 displaytext: Next Event
 layout: null
 tab: true
 order: 1
 tags: chandigarh
-
 ---
 
 ## Next Meeting/Event(s)
