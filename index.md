@@ -6,7 +6,7 @@ tags: chandigarh, india
 level: 3
 region: Asia
 country: India
-meetup-group: OWASP-chapter-chandigarh
+meetup-group: OWASP-chandigarh
 ---
 
 ## Welcome
