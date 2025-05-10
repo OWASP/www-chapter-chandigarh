@@ -11,7 +11,7 @@ meetup-group: OWASP-chandigarh
 
 ## Welcome
 
-Welcome to the OWASP Chandigarh Chapter! We are a dynamic group of students passionate about cybersecurity and dedicated to enhancing application security in our region. Our chapter serves as a platform for knowledge sharing, collaboration, and skill development, bringing together individuals from various backgrounds to discuss the latest trends and challenges in the field of cybersecurity.
+Welcome to the OWASP Chandigarh Chapter! We are a dynamic group of students/professionals passionate about cybersecurity and dedicated to enhancing application security in our region. Our chapter serves as a platform for knowledge sharing, collaboration, and skill development, bringing together individuals from various backgrounds to discuss the latest trends and challenges in the field of cybersecurity.
 
 ## Participation
 
