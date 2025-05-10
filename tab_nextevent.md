@@ -4,6 +4,7 @@ displaytext: NextEvent
 tab: true
 order: 2
 tags: chd
+layout: col-sidebar
 ---
 
 
