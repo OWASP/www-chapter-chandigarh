@@ -1,32 +1,53 @@
 ---
-title: about
-displaytext: About
+title: Leaders
 tab: true
 order: 1
-tags: chd
+tags: Mum
 ---
 
+# Current Chapter Leaders
 
-## About OWASP
+### Yash Roongta (August 2019 - Present)
 
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+Pentester, Purple Teamer, Auditor, Trainer and Speaker. Been active in the InfoSec domain for close to 4 years.
+Eager and willing to learn from everyone. 
+When I am not researching / studying / learning. You can find on Dota2 with my friends.
+Favorite topics: Penetration Testing, Red Teaming, OSINT and Recon.
 
-## About Us
+Blog:<https://acc3ssp0int.com>
+#### Contact yash.roongta@owasp.org
 
-We are a dedicated group of individuals, committed to promoting and enhancing application security within our community. As part of the global OWASP initiative, our chapter aims to provide a platform for knowledge sharing, collaboration, and skill development in the field of cybersecurity.
 
-Our chapter organizes regular meetups, workshops, and events that bring together industry experts, researchers, and students to discuss the latest trends, challenges, and best practices in application security. We believe in fostering a supportive environment where individuals can learn from one another, share their experiences, and grow their skills.
+### Anantkumar Joshi (August 2019 - Present)
+Working in the field of Cyber Security from 3 years . Focus areas include AppSec and Source code review. 
+Look forward to learning more about other areas in security
+Favorite topic: Web Application testing,Source Code Review.
+In my free time I enjoy reading books (Genre- psychological, mystery)
 
-## Reach out to us
 
-### 🏢 Interested in Hosting an Event?
+#### Contact anant.joshi@owasp.org
 
-- Do you have a venue where we can hold one of our community events?
-- Are you eager to engage with the cybersecurity community and make a contribution?
+# Current Chapter Volunteers
 
-We would love to hear from you! Please contact us using the links provided on the right.
+#### Ashwini Varadkar (August 2019 - Present)
+ 
+Been associated with cyber security for the past 5 years. An avid reader and a professional Kathak dancer, my experience in infosec revolves around technical writing, security assessments, stringent report reviews,and trainings.
+I believe, there is nothing more rewarding and fulfilling than being able to accomplish everything that your field of interest demands from you.
+Stay curious and give back to the community.
 
-### 💰 Interested in Sponsoring Us?
+#### Vaibhav Koli (August 2019 - Present)
+ 
+Working in the field of information security from last 3 years.
+Interesting areas are Web Application security, Red Teaming, APIs
 
-Your support can help cover the costs of our events or assist with travel and accommodation for non-local speakers. If you're interested in sponsoring, please reach out to us using the links on the right ➡️
+#### Rohan Rane (January 2020 - Present)
 
+Working in the field of infosec for the last 3 years.
+Area of Interests: Network, Web APIs, Red Teaming.
+
+# Past Chapter Volunteers
+
+#### Himanshu Sharma (August 2019 - February 2020)
+ 
+InfoSec fresher, loves learning and researching about infosec. "Hardcoder" (pun intended). Trying to learn from the infosec community
+Key interests include: Network Pentesting and Exploit development.
