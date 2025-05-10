@@ -30,6 +30,3 @@ We would love to hear from you! Please contact us using the links provided on th
 
 Your support can help cover the costs of our events or assist with travel and accommodation for non-local speakers. If you're interested in sponsoring, please reach out to us using the links on the right ➡️
 
-### 🎤 Want to Share Your Knowledge?
-
-If you have an engaging topic and would like to share your expertise with our community, we encourage you to submit a session proposal here.
