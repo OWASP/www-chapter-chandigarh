@@ -52,3 +52,9 @@ For more information on how to support OWASP Chandigarh chapter in helping organ
 <h2>Code of Conduct</h2>
 We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to our chapter leaders if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies [here](https://www.owasp.org/index.php/Governance/Conference_Policies)
 
+<headertabs></headertabs>
+
+[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
+[Category:](Category:{region}}} "wikilink") [Category:OWASP
+Chapter](Category:OWASP_Chapter "wikilink")
+[Category:India](Category:India "wikilink")
