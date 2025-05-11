@@ -7,7 +7,7 @@
 
 ### Social Links
 
-* [WhatsApp](https://chat.whatsapp.com/Kt16pylT8j1FkXl0VzARii)
+* [WhatsApp](https://chat.whatsapp.com/CWCx8HZlAHt2A9WDWNfwzE)
  
 ### Become speaker
 
