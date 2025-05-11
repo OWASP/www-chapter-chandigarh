@@ -2,7 +2,7 @@
 * Chapter Region -->
 
 
-![OWASP Chandigarh Chapter](web.png)
+![OWASP Chandigarh Chapter](assets/images/web.png)
 # OWASP Chandigarh Chapter
 
 ### Social Links
