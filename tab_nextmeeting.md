@@ -7,4 +7,4 @@ tags: Mum
 
 # **Next Meeting**
 
-Next Meeting will soon be announced, Stay tuned!
+Next Meeting/Event will be announced soon, Stay tuned!
