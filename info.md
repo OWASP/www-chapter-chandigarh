@@ -2,12 +2,10 @@
 * Chapter Region -->
 
 
-![OWASP Mumbai Chapter](LogoMumbai.png)
-# OWASP Mumbai Chapter
+![OWASP Chandigarh Chapter](web.png)
+# OWASP Chandigarh Chapter
 
 ### Social Links
- 
-* [MeetUp](https://www.meetup.com/OWASP-Mumbai-Chapter/)
 
 * [Twitter](https://twitter.com/OWASP_Mumbai)
 
