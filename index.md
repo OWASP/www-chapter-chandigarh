@@ -1,12 +1,12 @@
 ---
 
 layout: col-sidebar
-title: OWASP Mumbai
+title: OWASP Chandigarh
 tags: Mum
 level: 0
 region: Asia
 country: India
-meetup-group: owasp-mumbai-chapter
+meetup-group: owasp-chandigarh-chapter
 
 
 ---
