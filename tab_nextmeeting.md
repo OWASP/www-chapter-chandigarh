@@ -1,5 +1,5 @@
 ---
-title: NextMeeting
+title: Upcoming
 tab: true
 order: 1
 tags: Mum
