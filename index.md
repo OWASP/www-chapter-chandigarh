@@ -15,7 +15,7 @@ OWASP Chandigarh is the Chandigarh chapter of "OWASP – Open Web Application Se
 
 OWASP Chandigarh hosts regular meetups, workshops, and hands-on sessions that focus on real-world security issues, vulnerabilities, and attack-defense techniques. It serves as a collaborative space for members to learn, exchange ideas, and improve their cybersecurity skills, while fostering a culture of responsible security practices
 
-#### Our Goals
+### Our Goals
 #### Promoting Equality
 We strive to unite individuals from research, academia, and industry to inspire and empower others to pursue careers in cybersecurity. Through awareness and outreach, we aim to foster greater diversity and inclusivity within the field.
 
@@ -29,8 +29,3 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
-
-## Our Supporters
-A Special thanks to Network Intelligence India (NII) for being a generous host to the OWASP Meetups
-
-![Network Intelligence](NII.png)
