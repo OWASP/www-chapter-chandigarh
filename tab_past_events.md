@@ -1,12 +1,8 @@
 ---
-
-title: past_events
-displaytext: Past Events
+title: Past Meetings
 tab: true
-order: 3
-tags: chd
-layout: col-sidebar
-
+order: 1
+tags: Mum
 ---
 
 asdjgfhkjlhkcj
