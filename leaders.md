@@ -1,5 +1,3 @@
 ### Leaders
-
-* [Saksham Sharma](mailto:saksham.sharma@owasp.org)
-* [Siddhant Tiwari](mailto:siddhant.tiwari@owasp.org)
-* [Atharva Barge](mailto:atharva.barge@owasp.org)
+* [Anant Kumar Joshi](mailto:anant.joshi@owasp.org)
+* [Yash Roongta](mailto:yash.roongta@owasp.org)

@@ -1,31 +1,37 @@
 ---
 
 layout: col-sidebar
-title: OWASP Chandigarh
-tags: chandigarh, india
+title: OWASP Mumbai
+tags: Mum
+level: 0
 region: Asia
 country: India
-meetup-group: OWASP-chandigarh
+meetup-group: owasp-mumbai-chapter
+
 
 ---
-
 ## Welcome
+Welcome to the OWASP Mumbai Chapter home page!
 
-Welcome to the OWASP Chandigarh Chapter! We are a dynamic group of students/professionals passionate about cybersecurity and dedicated to enhancing application security in our region. Our chapter serves as a platform for knowledge sharing, collaboration, and skill development, bringing together individuals from various backgrounds to discuss the latest trends and challenges in the field of cybersecurity.
+The Mumbai Chapter has been active & rebooted in August 2019. We organise local events throughout the year, the talks are hosted once a month on the fourth Saturday.
+Your chapter leaders are [Yash Roongta](https://twitter.com/acc3ssp0int), and [Anantkumar Joshi](https://twitter.com/w1r3sh65rk)
 
-## Participation
+## Our Goals
+### Equality
+We aim to bring together people from research, academia and industry to motivate, and empower others to pursue a career in cybersecurity. By raising awareness we work towards increasing diversity and equality in cybersecurity.
 
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation focused on improving software security. All of our projects, tools, documents, forums, and chapters are freely accessible to anyone interested in advancing application security.
+### Education
+We are committed to helping discover the next generation of cybersecurity talent. We aim to offer mentorship programs to educate those new to cybersecurity, and provide talks from industry professionals to showcase all cybersecurity has to offer.
 
-We host events both offline and online, providing opportunities for individuals to engage with our community. We welcome speakers and sponsors to reach out and contribute to our initiatives. For more information on how to get involved, please refer to the About Us section.
-
-Everyone is encouraged to participate in our Projects, Local Chapters, Events, Online Groups, and Community Slack Channel. We especially value diversity in all our initiatives. OWASP is an excellent place to learn about application security, network with peers, and build your reputation as an expert in the field. We also invite you to become a member or consider making a donation to support our ongoing efforts.
-
-Join us in our mission to create a safer digital environment for all!
+### Community Engagement
+We want to help you connect with like-minded individuals. Whether you are new to cybersecurity or a seasoned veteran, our goal is to build a community where everyone can openly discuss and explore current issues in cybersecurity, employment opportunities and more. By providing networking opportunities, we want everyone to get involved in the community and establish relationships with new people.
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
-## Code of Conduct
-We hope you enjoy our events, we care deeply about inclusivity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to our chapter leaders if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies [here](https://www.owasp.org/index.php/Governance/Conference_Policies) 
+
+## Our Supporters
+A Special thanks to Network Intelligence India (NII) for being a generous host to the OWASP Meetups
+
+![Network Intelligence](NII.png)
