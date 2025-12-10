@@ -11,7 +11,7 @@ meetup-group: owasp-chandigarh-chapter
 
 ---
 ## Welcome
-OWASP Chandigarh is the Chandigarh chapter of "OWASP – Open Web Application Security Project", a community focused on building a knowledge-sharing platform for cybersecurity enthusiasts. The chapter brings together professionals, students, and hobbyists passionate about ethical hacking, information security, and cybersecurity.
+OWASP Chandigarh is the Chandigarh chapter of "OWASP – Open Worldwide Application Security Project", a community focused on building a knowledge-sharing platform for cybersecurity enthusiasts. The chapter brings together professionals, students, and hobbyists passionate about ethical hacking, information security, and cybersecurity.
 
 OWASP Chandigarh hosts regular meetups, workshops, and hands-on sessions that focus on real-world security issues, vulnerabilities, and attack-defense techniques. It serves as a collaborative space for members to learn, exchange ideas, and improve their cybersecurity skills, while fostering a culture of responsible security practices
 
